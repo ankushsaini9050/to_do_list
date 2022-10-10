@@ -1,0 +1,18 @@
+body{
+  background-image: url(md.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+#edit{
+  display: none;
+}
+/* const name = input.value;
+email 
+phonenumber
+const obj = {
+  id: Math.random(),
+  name: name,
+  email: email,
+  phonenumber: phonenumber
+} */
